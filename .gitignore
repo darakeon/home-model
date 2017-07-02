@@ -1,0 +1,21 @@
+syntax: glob
+Temp
+Library/metadata
+Library/ScriptAssemblies
+Library/assetDatabase3
+Library/AssetServerCacheV3
+Library/AssetVersioning.db
+Library/expandedItems
+Library/FailedAssetImports.txt
+Library/guidmapper
+Library/ScriptMapper
+*ReSharper*
+bin
+obj
+*.suo
+*.user
+*dotCover
+log_files
+*.orig
+Souls/Build/Build.html
+.hg*
